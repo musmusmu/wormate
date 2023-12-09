@@ -1,3 +1,9 @@
+<html>
+    <head>
+    <meta name="color-scheme" content="light dark">
+    </head>
+    <body>
+    <pre style="word-wrap: break-word; white-space: pre-wrap;">
 (self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([[40179], {
     60932: function(e, t) {
         "use strict";
@@ -4931,6 +4937,9 @@ ${e.stack}` : e + "")
 }, function(e) {
     e.O(0, [49774], function() {
         return e(e.s = 83926)
+            </per>
+            </body>
+            </html>
     }),
     _N_E = e.O()
 }
